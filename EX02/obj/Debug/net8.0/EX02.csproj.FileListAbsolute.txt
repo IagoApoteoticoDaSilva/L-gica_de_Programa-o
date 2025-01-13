@@ -1,0 +1,14 @@
+C:\Repositorio\ConsoleApp1\EX02\bin\Debug\net8.0\EX02.exe
+C:\Repositorio\ConsoleApp1\EX02\bin\Debug\net8.0\EX02.deps.json
+C:\Repositorio\ConsoleApp1\EX02\bin\Debug\net8.0\EX02.runtimeconfig.json
+C:\Repositorio\ConsoleApp1\EX02\bin\Debug\net8.0\EX02.dll
+C:\Repositorio\ConsoleApp1\EX02\bin\Debug\net8.0\EX02.pdb
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.AssemblyInfoInputs.cache
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.AssemblyInfo.cs
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.csproj.CoreCompileInputs.cache
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.dll
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\refint\EX02.dll
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.pdb
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\EX02.genruntimeconfig.cache
+C:\Repositorio\ConsoleApp1\EX02\obj\Debug\net8.0\ref\EX02.dll
