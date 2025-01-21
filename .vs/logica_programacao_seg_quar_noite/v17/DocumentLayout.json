@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E688184B-5217-46BB-807C-689A2602F2D2}|ex28\\ex28.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E688184B-5217-46BB-807C-689A2602F2D2}|ex28\\ex28.csproj|solutionrelative:ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16444AC6-B058-4040-80A4-EE28173E0CBA}|ex27\\ex27.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16444AC6-B058-4040-80A4-EE28173E0CBA}|ex27\\ex27.csproj|solutionrelative:ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB43DA3-7273-4D78-8214-31206C7A6EA8}|ex26\\ex26.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB43DA3-7273-4D78-8214-31206C7A6EA8}|ex26\\ex26.csproj|solutionrelative:ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0F425F-3D3E-4AEE-92B2-6BCE2F347BBD}|ex25\\ex25.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0F425F-3D3E-4AEE-92B2-6BCE2F347BBD}|ex25\\ex25.csproj|solutionrelative:ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE68F23-9993-4B62-82D8-9F6F25015D41}|ex24\\ex24.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE68F23-9993-4B62-82D8-9F6F25015D41}|ex24\\ex24.csproj|solutionrelative:ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2E416F-EB71-4F6A-A24E-09AC9D7BA761}|ex23\\ex23.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2E416F-EB71-4F6A-A24E-09AC9D7BA761}|ex23\\ex23.csproj|solutionrelative:ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D767D397-32C4-4F7B-96FE-53F3381F035F}|ex21\\ex21.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D767D397-32C4-4F7B-96FE-53F3381F035F}|ex21\\ex21.csproj|solutionrelative:ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200A2937-CD81-4569-AC67-641A129579C8}|ex22\\ex22.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200A2937-CD81-4569-AC67-641A129579C8}|ex22\\ex22.csproj|solutionrelative:ex22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C036F926-BBAB-4E84-8163-840E14F73C62}|ex07\\ex07.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C036F926-BBAB-4E84-8163-840E14F73C62}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7CC133-3037-4FFE-B753-99D69397F2E8}|ex06\\ex06.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7CC133-3037-4FFE-B753-99D69397F2E8}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FDC3BB-8D45-4984-A971-2C357D95A83C}|ex05\\ex05.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FDC3BB-8D45-4984-A971-2C357D95A83C}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514A850-7BAF-4164-B9DC-A78F415C6826}|ex04\\ex04.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514A850-7BAF-4164-B9DC-A78F415C6826}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D0664A-D41A-45D4-85D3-DB43330DA8C7}|ex20\\ex20.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D0664A-D41A-45D4-85D3-DB43330DA8C7}|ex20\\ex20.csproj|solutionrelative:ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C940B892-7D12-409A-876E-6811C344CD5D}|ex19\\ex19.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C940B892-7D12-409A-876E-6811C344CD5D}|ex19\\ex19.csproj|solutionrelative:ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD3AFB3-78B1-479A-934A-9637C735C374}|ex18\\ex18.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD3AFB3-78B1-479A-934A-9637C735C374}|ex18\\ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077ED9EC-5173-4113-B9EF-2D9069EEF19D}|ex17\\ex17.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077ED9EC-5173-4113-B9EF-2D9069EEF19D}|ex17\\ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BAD69A-5F9F-49D7-A67B-4D39AD002A5A}|ex13\\ex13.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BAD69A-5F9F-49D7-A67B-4D39AD002A5A}|ex13\\ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3365EE-0ADD-429B-A04E-B255E14E1A7E}|ex14\\ex14.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3365EE-0ADD-429B-A04E-B255E14E1A7E}|ex14\\ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D02DABD-28D7-4CDD-A787-001CAF393853}|ex15\\ex15.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D02DABD-28D7-4CDD-A787-001CAF393853}|ex15\\ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D39491B-B5C1-4FFF-B062-1CBC331FBF9E}|ex16\\ex16.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D39491B-B5C1-4FFF-B062-1CBC331FBF9E}|ex16\\ex16.csproj|solutionrelative:ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D351554-2C13-4AD9-9843-CBF662C146FB}|ex12\\ex12.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D351554-2C13-4AD9-9843-CBF662C146FB}|ex12\\ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315C39BC-0414-412B-9595-C22CC69B3AB8}|ex11\\ex11.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315C39BC-0414-412B-9595-C22CC69B3AB8}|ex11\\ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561349A3-2172-4CE1-BDF6-9547BE19BAE2}|ex10\\ex10.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561349A3-2172-4CE1-BDF6-9547BE19BAE2}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FF3001-83DD-4F13-9C31-EDBB1B1C223E}|ex09\\ex09.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FF3001-83DD-4F13-9C31-EDBB1B1C223E}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B014FE-30D7-45AF-97CC-51CC61A1BE0D}|ex08\\ex08.csproj|c:\\users\\iago.snascimento\\onedrive - senac - sp\\\u00E1rea de trabalho\\logica_programacao_seg_qua_noite-main\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B014FE-30D7-45AF-97CC-51CC61A1BE0D}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex28\\Program.cs",
+              "RelativeDocumentMoniker": "ex28\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex28\\Program.cs",
+              "RelativeToolTip": "ex28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:44:35.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex27\\Program.cs",
+              "RelativeDocumentMoniker": "ex27\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex27\\Program.cs",
+              "RelativeToolTip": "ex27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:39:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex26\\Program.cs",
+              "RelativeDocumentMoniker": "ex26\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex26\\Program.cs",
+              "RelativeToolTip": "ex26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex25\\Program.cs",
+              "RelativeDocumentMoniker": "ex25\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex25\\Program.cs",
+              "RelativeToolTip": "ex25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:37:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex24\\Program.cs",
+              "RelativeDocumentMoniker": "ex24\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex24\\Program.cs",
+              "RelativeToolTip": "ex24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:27:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex23\\Program.cs",
+              "RelativeDocumentMoniker": "ex23\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex23\\Program.cs",
+              "RelativeToolTip": "ex23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:26:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex22\\Program.cs",
+              "RelativeDocumentMoniker": "ex22\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex22\\Program.cs",
+              "RelativeToolTip": "ex22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:24:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex21\\Program.cs",
+              "RelativeDocumentMoniker": "ex21\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex21\\Program.cs",
+              "RelativeToolTip": "ex21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:19:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex18\\Program.cs",
+              "RelativeDocumentMoniker": "ex18\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex18\\Program.cs",
+              "RelativeToolTip": "ex18\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:09:04.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex17\\Program.cs",
+              "RelativeDocumentMoniker": "ex17\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex17\\Program.cs",
+              "RelativeToolTip": "ex17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:33:08.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex16\\Program.cs",
+              "RelativeDocumentMoniker": "ex16\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex16\\Program.cs",
+              "RelativeToolTip": "ex16\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:27:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex15\\Program.cs",
+              "RelativeDocumentMoniker": "ex15\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex15\\Program.cs",
+              "RelativeToolTip": "ex15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:14:48.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex14\\Program.cs",
+              "RelativeDocumentMoniker": "ex14\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex14\\Program.cs",
+              "RelativeToolTip": "ex14\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:59:27.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex13\\Program.cs",
+              "RelativeDocumentMoniker": "ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex13\\Program.cs",
+              "RelativeToolTip": "ex13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:51:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex12\\Program.cs",
+              "RelativeDocumentMoniker": "ex12\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex12\\Program.cs",
+              "RelativeToolTip": "ex12\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:43:27.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex11\\Program.cs",
+              "RelativeDocumentMoniker": "ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex11\\Program.cs",
+              "RelativeToolTip": "ex11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:40:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex10\\Program.cs",
+              "RelativeDocumentMoniker": "ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex10\\Program.cs",
+              "RelativeToolTip": "ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:37:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex09\\Program.cs",
+              "RelativeDocumentMoniker": "ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex09\\Program.cs",
+              "RelativeToolTip": "ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:34:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex08\\Program.cs",
+              "RelativeDocumentMoniker": "ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex08\\Program.cs",
+              "RelativeToolTip": "ex08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:16:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex06\\Program.cs",
+              "RelativeDocumentMoniker": "ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex06\\Program.cs",
+              "RelativeToolTip": "ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:47:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex07\\Program.cs",
+              "RelativeDocumentMoniker": "ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex07\\Program.cs",
+              "RelativeToolTip": "ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:08:44.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex19\\Program.cs",
+              "RelativeDocumentMoniker": "ex19\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex19\\Program.cs",
+              "RelativeToolTip": "ex19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:14:34.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex20\\Program.cs",
+              "RelativeDocumentMoniker": "ex20\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex20\\Program.cs",
+              "RelativeToolTip": "ex20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:16:51.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:37:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\logica_programacao_seg_qua_noite-main\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:36:01.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

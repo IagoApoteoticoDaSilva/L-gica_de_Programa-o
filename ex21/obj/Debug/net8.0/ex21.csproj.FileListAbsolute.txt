@@ -1,0 +1,14 @@
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\bin\Debug\net8.0\ex21.exe
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\bin\Debug\net8.0\ex21.deps.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\bin\Debug\net8.0\ex21.runtimeconfig.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\bin\Debug\net8.0\ex21.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\bin\Debug\net8.0\ex21.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.AssemblyInfo.cs
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\refint\ex21.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ex21.genruntimeconfig.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex21\obj\Debug\net8.0\ref\ex21.dll

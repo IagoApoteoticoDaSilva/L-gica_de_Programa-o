@@ -1,0 +1,14 @@
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\bin\Debug\net8.0\ex15.exe
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\bin\Debug\net8.0\ex15.deps.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\bin\Debug\net8.0\ex15.runtimeconfig.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\bin\Debug\net8.0\ex15.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\bin\Debug\net8.0\ex15.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.AssemblyInfo.cs
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\refint\ex15.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ex15.genruntimeconfig.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex15\obj\Debug\net8.0\ref\ex15.dll

@@ -1,0 +1,4 @@
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.AssemblyInfo.cs
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.csproj.CoreCompileInputs.cache

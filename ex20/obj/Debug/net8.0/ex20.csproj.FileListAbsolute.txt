@@ -1,0 +1,14 @@
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\bin\Debug\net8.0\ex20.exe
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\bin\Debug\net8.0\ex20.deps.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\bin\Debug\net8.0\ex20.runtimeconfig.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\bin\Debug\net8.0\ex20.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\bin\Debug\net8.0\ex20.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.AssemblyInfo.cs
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\refint\ex20.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ex20.genruntimeconfig.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex20\obj\Debug\net8.0\ref\ex20.dll

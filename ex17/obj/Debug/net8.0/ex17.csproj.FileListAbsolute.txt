@@ -1,0 +1,14 @@
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\bin\Debug\net8.0\ex17.exe
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\bin\Debug\net8.0\ex17.deps.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\bin\Debug\net8.0\ex17.runtimeconfig.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\bin\Debug\net8.0\ex17.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\bin\Debug\net8.0\ex17.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.AssemblyInfo.cs
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\refint\ex17.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ex17.genruntimeconfig.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\logica_programacao_seg_qua_noite-main\ex17\obj\Debug\net8.0\ref\ex17.dll

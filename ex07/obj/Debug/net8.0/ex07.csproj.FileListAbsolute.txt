@@ -1,0 +1,15 @@
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\bin\Debug\net8.0\ex07.exe
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\bin\Debug\net8.0\ex07.deps.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\bin\Debug\net8.0\ex07.runtimeconfig.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\bin\Debug\net8.0\ex07.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\bin\Debug\net8.0\ex07.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.AssemblyInfoInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.AssemblyInfo.cs
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.sourcelink.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\refint\ex07.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ex07.genruntimeconfig.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_qua_noite\ex07\obj\Debug\net8.0\ref\ex07.dll
