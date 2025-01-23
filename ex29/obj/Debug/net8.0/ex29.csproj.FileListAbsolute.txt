@@ -1,0 +1,15 @@
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\bin\Debug\net8.0\ex29.exe
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\bin\Debug\net8.0\ex29.deps.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\bin\Debug\net8.0\ex29.runtimeconfig.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\bin\Debug\net8.0\ex29.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\bin\Debug\net8.0\ex29.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.AssemblyInfo.cs
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.sourcelink.json
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\refint\ex29.dll
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.pdb
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ex29.genruntimeconfig.cache
+C:\Users\iago.snascimento\OneDrive - SENAC - SP\Área de Trabalho\Exercicios\ex29\obj\Debug\net8.0\ref\ex29.dll

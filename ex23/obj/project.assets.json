@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\Área de Trabalho\\logica_programacao_seg_qua_noite-main\\ex23\\ex23.csproj",
+      "projectUniqueName": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\Área de Trabalho\\Exercicios\\ex23\\ex23.csproj",
       "projectName": "ex23",
-      "projectPath": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\Área de Trabalho\\logica_programacao_seg_qua_noite-main\\ex23\\ex23.csproj",
+      "projectPath": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\Área de Trabalho\\Exercicios\\ex23\\ex23.csproj",
       "packagesPath": "C:\\Users\\iago.snascimento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\Área de Trabalho\\logica_programacao_seg_qua_noite-main\\ex23\\obj\\",
+      "outputPath": "C:\\Users\\iago.snascimento\\OneDrive - SENAC - SP\\Área de Trabalho\\Exercicios\\ex23\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
